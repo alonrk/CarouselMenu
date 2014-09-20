@@ -81,7 +81,7 @@ addBtn.addEventListener('click', function() {
 		duration: 500
 	});
 
-	carousel.scrollToIndex(-5);
+	carousel.scrollToIndex(2);
 });
 
 win.open();
