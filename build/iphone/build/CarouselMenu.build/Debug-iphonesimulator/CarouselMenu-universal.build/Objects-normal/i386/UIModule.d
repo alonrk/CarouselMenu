@@ -1,0 +1,71 @@
+dependencies: \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/UIModule.m \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiBase.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiThreading.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiPublicAPI.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiDimension.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/UIModule.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiModule.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiEvaluator.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/KrollContext.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/KrollCallback.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/KrollObject.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUtils.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiColor.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/WebFont.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiFile.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiBuffer.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiBlob.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIAlertDialogProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/Ti2DMatrix.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/Ti3DMatrix.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiAnimation.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiPoint.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/ListenerEntry.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/LayoutConstraint.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiPhoneProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiPadProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiPadPopoverProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiViewProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIView.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiGradient.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiRect.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiViewTemplate.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiViewController.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiPadSplitWindowProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiWindowProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiTab.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiTabGroup.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiOSTransitionAnimationProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiOSDocumentViewerProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiOSProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiOSAdViewProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIViewProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIClipboardProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiOSCoverFlowViewProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiOSToolbarProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiToolbar.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiUIiOSTabbedBarProxy.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiApp.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiHost.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/Bridge.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiStylesheet.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/KrollBridge.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/XHRBridge.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/TiRootViewController.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/ImageLoader.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/APSHTTPClient/APSHTTPClient.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/APSHTTPClient/APSHTTPRequest.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/APSHTTPClient/APSHTTPResponse.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/APSHTTPClient/APSHTTPPostForm.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/APSHTTPClient/APSHTTPHelper.h \
+  /Users/alonrk/Documents/Titanium_Studio_Workspace/CarouselMenu/build/iphone/Classes/Webcolor.h
