@@ -25,10 +25,20 @@ var	iconList = [
 
 var buttons = [];
 
+// real buttons
 for (var i=0; i<iconList.length; i++) {
 	var icon = iconList[i];
 	var button = Ti.UI.createImageView({
 		image: icon.image,
+		width: 60,
+		height: 60
+	});
+	buttons.push(button);
+}
+
+// dummy buttons
+for (i=0; i<5; i++) {
+	var button = Ti.UI.createView({
 		width: 60,
 		height: 60
 	});
@@ -46,12 +56,14 @@ var carousel = TiCarousel.createCarouselView({
     bounceDistance: 10
 });
 carousel.addEventListener('select', function() {
-	showMenu = !showMenu;
+	showMenu = false;
 	
 	carouselHolder.animate({
-		opacity: showMenu ? 1 : 0,
+		opacity: 0,
 		duration: 500
 	});
+	
+	carousel.scrollToIndex(9);
 });
 
 var addBtn = Ti.UI.createImageView({
@@ -81,7 +93,11 @@ addBtn.addEventListener('click', function() {
 		duration: 500
 	});
 
-	carousel.scrollToIndex(2);
+	if (showMenu) {
+		carousel.scrollToIndex(2);
+	} else {
+		carousel.scrollToIndex(9);
+	}
 });
 
 win.open();
