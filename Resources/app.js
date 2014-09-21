@@ -53,7 +53,8 @@ var carousel = TiCarousel.createCarouselView({
     numberOfVisibleItems: 5,
     wrap: false,
     transformOptions: txopts,
-    bounceDistance: 10
+    bounceDistance: 1.1,
+    bounce: true
 });
 carousel.addEventListener('select', function() {
 	showMenu = false;
